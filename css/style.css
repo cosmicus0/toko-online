@@ -10,3 +10,12 @@ header {
   font-size: 18px;
   letter-spacing: 1px; 
 }
+nav a {
+ 
+  margin-right: 12px;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+
