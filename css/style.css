@@ -11,9 +11,25 @@ header {
   letter-spacing: 1px; 
 }
 footer {
-  background-
- 
+  background-color: #333;
+  color: white; 
   text-align: center;
   padding: 16px;
   margin-top: 40px;
 }
+nav a {
+  color: white;
+  margin-right: 12px;
+  text-decoration: none;
+}
+.product-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 12px;
+  display: inline-block;
+  width: 200px;
+}
+
+
+
